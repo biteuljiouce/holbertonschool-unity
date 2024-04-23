@@ -334,10 +334,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Ball
       objectReference: {fileID: 0}
-    - target: {fileID: 2480163007472746045, guid: 9c60ebb2176a2f74eabeb83a6e9a4a50, type: 3}
-      propertyPath: m_TagString
-      value: Obstacles
-      objectReference: {fileID: 0}
     - target: {fileID: 4929072891348792648, guid: 9c60ebb2176a2f74eabeb83a6e9a4a50, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.68335
@@ -495,10 +491,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Black Ball
       objectReference: {fileID: 0}
-    - target: {fileID: 2480163007472746045, guid: 9c60ebb2176a2f74eabeb83a6e9a4a50, type: 3}
-      propertyPath: m_TagString
-      value: Obstacles
-      objectReference: {fileID: 0}
     - target: {fileID: 4929072891348792648, guid: 9c60ebb2176a2f74eabeb83a6e9a4a50, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.645855
@@ -564,10 +556,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Green Ball
       objectReference: {fileID: 0}
-    - target: {fileID: 2480163007472746045, guid: 9c60ebb2176a2f74eabeb83a6e9a4a50, type: 3}
-      propertyPath: m_TagString
-      value: Obstacles
-      objectReference: {fileID: 0}
     - target: {fileID: 4929072891348792648, guid: 9c60ebb2176a2f74eabeb83a6e9a4a50, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.2306395
@@ -628,10 +616,6 @@ PrefabInstance:
     - target: {fileID: 2480163007472746045, guid: 9c60ebb2176a2f74eabeb83a6e9a4a50, type: 3}
       propertyPath: m_Name
       value: White Ball
-      objectReference: {fileID: 0}
-    - target: {fileID: 2480163007472746045, guid: 9c60ebb2176a2f74eabeb83a6e9a4a50, type: 3}
-      propertyPath: m_TagString
-      value: Obstacles
       objectReference: {fileID: 0}
     - target: {fileID: 4929072891348792648, guid: 9c60ebb2176a2f74eabeb83a6e9a4a50, type: 3}
       propertyPath: m_LocalScale.x
@@ -705,10 +689,6 @@ PrefabInstance:
     - target: {fileID: 2480163007472746045, guid: 9c60ebb2176a2f74eabeb83a6e9a4a50, type: 3}
       propertyPath: m_Name
       value: Red Ball
-      objectReference: {fileID: 0}
-    - target: {fileID: 2480163007472746045, guid: 9c60ebb2176a2f74eabeb83a6e9a4a50, type: 3}
-      propertyPath: m_TagString
-      value: Obstacles
       objectReference: {fileID: 0}
     - target: {fileID: 4929072891348792648, guid: 9c60ebb2176a2f74eabeb83a6e9a4a50, type: 3}
       propertyPath: m_LocalScale.x
